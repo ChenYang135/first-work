@@ -1,4 +1,4 @@
-//服务员（相当于建造者）
+//服务员（相当于指导者）
 public class KFCWaiter
 {
 	private MealBuilder mb;
